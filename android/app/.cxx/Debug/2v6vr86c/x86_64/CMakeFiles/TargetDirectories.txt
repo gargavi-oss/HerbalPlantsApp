@@ -1,0 +1,2 @@
+/Users/avigarg/StudioProjects/first_app/android/app/.cxx/Debug/2v6vr86c/x86_64/CMakeFiles/edit_cache.dir
+/Users/avigarg/StudioProjects/first_app/android/app/.cxx/Debug/2v6vr86c/x86_64/CMakeFiles/rebuild_cache.dir
